@@ -1,0 +1,5 @@
+classes = 2
+train = C:/DL/FastCampus/advancedProject/FruitSample/train.txt
+valid = C:/DL/FastCampus/advancedProject/FruitSample/test.txt
+name = C:/DL/FastCampus/advancedProject/FruitSample/classes.names
+backup = backup

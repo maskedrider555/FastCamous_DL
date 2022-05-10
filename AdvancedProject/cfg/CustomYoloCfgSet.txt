@@ -1,0 +1,5 @@
+max_batches = classes * 2000
+steps = max_batches*0.8, max_batches*0.9
+
+filters = (classes + coordinates + 1) * masks
+filters = (classes + 5) * 3
