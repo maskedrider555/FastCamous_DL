@@ -37,3 +37,4 @@ DeepLearning_ImageProcessing/darknet/weights/yolov3.weights
 AdvancedProject/yolov3.weights
 AdvancedProject/custom-train-yolo_last.weights
 AdvancedProject/darknet53.conv.74
+AdvancedProject/Traffic/custom-train-yolo_last.weights
