@@ -39,3 +39,8 @@ AdvancedProject/custom-train-yolo_last.weights
 AdvancedProject/darknet53.conv.74
 AdvancedProject/Traffic/custom-train-yolo_last.weights
 CarTrackingProject/cabc30fc-e7726578.mp4
+CarTrackingProject/darknet
+CarTrackingProject/output_car_tracking.avi
+CarTrackingProject/output_tracking.avi
+CarTrackingProject/output_video_car.avi
+CarTrackingProject/output_video1.avi
